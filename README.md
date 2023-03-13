@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋Hello! I'm Matias, recently graduated from Henry, currently in search of a new personal goal: To achieve my first work experience in the tech sector. <br>As a Full Stack Web Developer I possess knowledge of both Frontend and Backend.<br>In 2009, I enrolled in the career of Graphic Design, which I have currently combined with Web Design, acquiring knowledge about techniques in UX/UI design.<br><br>WORKING ON<br><br>Recientemente estuve trabajando en el proyecto final en Henry.<br>Mi mayor aporte, estuvo en el carro de compras, donde trabaje con local storage y almacenamiento en base de datos.<br>Fui parte del diseño UI, utilizando Bootstrap como framework principal. 
+👋Hello! I'm Matias, recently graduated from Henry, currently in search of a new personal goal: To achieve my first work experience in the tech sector. <br>As a Full Stack Web Developer I possess knowledge of both Frontend and Backend.<br>In 2009, I enrolled in the career of Graphic Design, which I have currently combined with Web Design, acquiring knowledge about techniques in UX/UI design.<br><br>WORKING ON<br><br>Recently I was working on the final project at Henry.
+My main contribution was in the shopping cart, where I worked with local storage and database storage.
+I was part of the UI design, using Bootstrap as the main framework.
 
 
 ## 🌐 Socials:
